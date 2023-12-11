@@ -15,3 +15,5 @@
 - Run the CLI with `npm run cli`
 
 ## Available commands
+- Handle subscription
+- Fetch settings for a specific function app

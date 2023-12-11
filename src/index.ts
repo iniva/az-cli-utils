@@ -19,10 +19,6 @@ const app = async () => {
           name: 'Fetch local.settings.json for a Function App',
           value: 'local-settings',
         },
-        {
-          name: 'Interact with the Service Bus',
-          value: 'service-bus',
-        },
       ],
       filter: (value) => {
         return value.toLowerCase()
